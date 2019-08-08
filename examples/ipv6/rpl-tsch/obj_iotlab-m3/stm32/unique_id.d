@@ -1,0 +1,27 @@
+obj_iotlab-m3/stm32/unique_id.o: \
+ ../../../platform/iotlab-m3/../../../openlab/drivers/stm32/unique_id.c \
+ ../../../platform/iotlab-m3/../../../openlab/drivers/unique_id.h \
+ ../../../../openlab/drivers/stm32f1xx/memmap.h \
+ ../../../../openlab/drivers/cortex-m3/cm3_memmap.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/printf.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/debug.h \
+ ../../../platform/iotlab-m3/../../../openlab/drivers/nvic.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/handler.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/event.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/handler.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/soft_timer.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/soft_timer_delay.h \
+ ../../../platform/iotlab-m3/../../../openlab/lib/printf.h
+ ../../../platform/iotlab-m3/../../../openlab/drivers/stm32/unique_id.c :
+ ../../../platform/iotlab-m3/../../../openlab/drivers/unique_id.h :
+ ../../../../openlab/drivers/stm32f1xx/memmap.h :
+ ../../../../openlab/drivers/cortex-m3/cm3_memmap.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/printf.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/debug.h :
+ ../../../platform/iotlab-m3/../../../openlab/drivers/nvic.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/handler.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/event.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/handler.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/soft_timer.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/soft_timer_delay.h :
+ ../../../platform/iotlab-m3/../../../openlab/lib/printf.h :

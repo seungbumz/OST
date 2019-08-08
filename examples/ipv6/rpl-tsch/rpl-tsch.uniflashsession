@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PartNumber id=""><Core name="Cortex_M3_0"><DebugProperties>&lt;?xml version="1.0" encoding="UTF-8" standalone="no" ?&gt;
+&lt;PropertyValues&gt;
+
+  &lt;property id="VerifyAfterProgramLoad"&gt;
+    &lt;curValue&gt;Full verification&lt;/curValue&gt;
+  &lt;/property&gt;
+
+  &lt;property id="AutoRunToLabelOnRestart"&gt;
+    &lt;curValue&gt;0&lt;/curValue&gt;
+  &lt;/property&gt;
+
+  &lt;property id="KeepCcfgSetting"&gt;
+    &lt;curValue&gt;0&lt;/curValue&gt;
+  &lt;/property&gt;
+
+&lt;/PropertyValues&gt;
+</DebugProperties><FilePaths><File Check="Checked">/home/netlab/contiki_git/examples/ipv6/rpl-tsch/node.hex</File></FilePaths></Core></PartNumber>
